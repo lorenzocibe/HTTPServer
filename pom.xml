@@ -8,7 +8,7 @@
             <configuration>
               <archive>
                 <manifest>
-                      <mainClass>serverPackage.WebServer</mainClass>
+                      <mainClass>ServerPackage.WebServer</mainClass>
                 </manifest>
               </archive>
               <descriptorRefs>
